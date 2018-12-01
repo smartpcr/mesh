@@ -8,7 +8,7 @@ namespace api.vote.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class ValuesController : ControllerBase
+    public class VoteController : ControllerBase
     {
         // GET api/values
         [HttpGet]
